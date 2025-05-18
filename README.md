@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN5aXlrdGswamNuMnh0b2k1MHBkanZnd3dhZnBicmNwaW1rajk4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1bRvcG0AbXu4U/giphy.gif" width="700"/>
+  <a href="https://t.me/italicboyyy">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN5aXlrdGswamNuMnh0b2k1MHBkanZnd3dhZnBicmNwaW1rajk4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1bRvcG0AbXu4U/giphy.gif" width="700"/>
+  </a>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
